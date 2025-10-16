@@ -79,9 +79,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
 </div>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
